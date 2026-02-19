@@ -99,9 +99,8 @@ else:
     # PRODUCTO CRUZ (fila a fila)
     producto_cruz = producto_cruz_fila_a_fila(A, B)
 
-    # --------------------------
-    # MOSTRAR RESULTADOS
-    # --------------------------
+    # imprimir RESULTADOS
+    
     imprimir_matriz(A, "Matriz A")
     imprimir_matriz(B, "Matriz B")
 
@@ -118,3 +117,4 @@ else:
         imprimir_matriz(producto_cruz, "Producto cruz (fila a fila)")
     else:
         print("\nProducto cruz: No se puede (solo si cada fila tiene 3 elementos).")
+
