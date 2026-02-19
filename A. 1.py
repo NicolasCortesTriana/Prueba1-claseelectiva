@@ -33,7 +33,7 @@ else:
             A[0]*B[1] - A[1]*B[0]
         ]
 
-    # Mostrar resultados
+    # imprimir resultados
     print("Vector A:", A)
     print("Vector B:", B)
 
@@ -46,3 +46,4 @@ else:
         print("Producto cruz:", producto_cruz)
     else:
         print("Producto cruz: No se puede (solo para vectores de 3 elementos)")
+
