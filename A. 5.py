@@ -2,9 +2,7 @@
 
 import math
 
-# ----------------------------
 # FUNCIONES DE ROTACIÓN
-# ----------------------------
 
 def rotacion_x(angulo_grados):
     theta = math.radians(angulo_grados)
@@ -30,9 +28,7 @@ def rotacion_z(angulo_grados):
         [0, 0, 1]
     ]
 
-# ----------------------------
 # PRUEBA DEL PROGRAMA
-# ----------------------------
 
 angulo = 45
 
@@ -51,3 +47,4 @@ for fila in Ry:
 print("\nRotación en Z (45°):")
 for fila in Rz:
     print(fila)
+
