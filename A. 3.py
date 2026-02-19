@@ -25,7 +25,7 @@ else:
     phi = math.acos(z / rho)
 
 
-# MOSTRAR RESULTADOS
+# IMPRIMIR RESULTADOS
     
 print("Coordenadas rectangulares:")
 print(f"x = {x}, y = {y}, z = {z}")
@@ -42,3 +42,4 @@ print(f"theta (rad) = {theta:.4f}")
 print(f"theta (deg) = {math.degrees(theta):.4f}")
 print(f"phi (rad) = {phi:.4f}")
 print(f"phi (deg) = {math.degrees(phi):.4f}")
+
