@@ -1,4 +1,4 @@
-Presentacion de primer parte taller
-Crista jimenez
-Nosema Ortiz Soler
-Nicolas Cortes Triana
+<p>Presentacion de primer parte taller</p>
+<p>Crista Jimenez</p>
+<p>Josema Ortiz Soler</p>
+<p>Nicolas Cortes Triana</p>
